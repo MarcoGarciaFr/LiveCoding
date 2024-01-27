@@ -4,8 +4,8 @@ Los archivos donde están las evaluaciones son:
 
 liveCoding1: app.js
 
-liveCoding2: script.js
+liveCoding2: starter-files > script.js
 
-liveCoding3: MangosNaranjas.java
+liveCoding3: Solution > MangosNaranjas.java
 
-liveCoding4: FizzBuzz.java
+liveCoding4: Solution > FizzBuzz.java
